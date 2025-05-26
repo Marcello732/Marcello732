@@ -8,14 +8,10 @@
 
 ### 🧠 About Me
 
-![Student](https://img.shields.io/badge/Role-Computer_Science_Student-blue?style=flat-square&logo=academia&logoColor=white)
-![Dev](https://img.shields.io/badge/Focus-Full_Stack_&_Mobile_Dev-success?style=flat-square&logo=developer&logoColor=white)
-![Current](https://img.shields.io/badge/Currently-Building_React_Native_App-informational?style=flat-square&logo=react&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Passion-Clean_Code_&_Architecture-yellow?style=flat-square&logo=code&logoColor=white)
-
 - First-year Computer Science student at **Warsaw University of Technology**
 - Backend and mobile developer with experience in **Java**, **Spring Boot**, **React Native**, and **Docker**
-- Designing and developing scalable apps with a focus on UX and performance
+- Currently developing a mobile app and backend infrastructure for a new service
+- Passionate about clean code, scalable architecture, and open-source contribution
 
 ---
 

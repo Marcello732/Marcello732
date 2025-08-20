@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Marcel Bączyński</h1>
 <p align="center">
-  💻 Computer Science student | Backend & Mobile Developer<br>
+  💻 Computer Science Student | Web & Mobile Developer<br>
   🚀 Passionate about building full-stack and cross-platform applications
 </p>
 
@@ -9,8 +9,8 @@
 ### 🧠 About Me
 
 - First-year Computer Science student at **Warsaw University of Technology**
-- Backend and mobile developer with experience in **Java**, **Spring Boot**, **React Native**, and **Docker**
-- Currently developing a mobile app and backend infrastructure for a new service
+- Backend and mobile developer with experience in **React**, **Java**, **Spring Boot**, **React Native**, and **Docker**
+- Currently developing a mobile app and web platform for a new service
 - Passionate about clean code, scalable architecture, and open-source contribution
 
 ---
